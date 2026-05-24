@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">TeacherTrack</string>
+    <string name="college_logo_image">College Logo</string>
+    <string name="app_heading">Teach Tracker</string>
+
+    <!-- Login & Registration -->
+    <string name="user_id">User ID</string>
+    <string name="password">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="register_text">New User? Register Here</string>
+    <string name="register_heading">Faculty Registration</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register_button">Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+
+    <!-- Profile Section -->
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone No.</string>
+    <string name="back">Back</string>
+    <string name="profile_image">Profile Image</string>
+
+    <!-- Editable Fields -->
+    <string name="name">Name</string>
+    <string name="edit_name">Edit Name</string>
+    <string name="edit_user_id">Edit User ID</string>
+    <string name="phone">Phone No.</string>
+    <string name="edit_phone">Edit Phone</string>
+    <string name="edit_password">Edit Password</string>
+    <string name="password_nav">Password</string>
+
+    <!-- Password Visibility -->
+    <string name="toggle_password_visibility">Toggle Password Visibility</string>
+    <string name="save">SAVE</string>
+
+    <!-- Dashboard -->
+    <string name="menu_description">Menu</string>
+    <string name="profile_description">Profile</string>
+    <string name="greeting">Hello Faculty Name</string>
+    <string name="department">Computer Science Department</string>
+    <string name="engaged_status">Engaged</string>
+    <string name="free_status">Free</string>
+    <string name="set_engaged">Set Engaged</string>
+    <string name="set_free">Set Free</string>
+    <string name="menu">drawer_menu</string>
+    <string name="profile">profileButton</string>
+    <string name="greeting_text">Hello Jai Mungi</string>
+    <string name="department_name">Computer Science Department</string>
+    <string name="status_free">Set Free</string>
+    <string name="enter_class_name">Class Name</string>
+    <string name="enter_room_or_lab_number">Room or Lab Number</string>
+    <string name="back_button_dialog">back_button_dialog</string>
+
+    <string name="engaged_prefix">Engaged in </string>
+    <string name="room_prefix">Room/Lab </string>
+    <string name="class_name_required">Class name required</string>
+    <string name="room_number_required">Room number required</string>
+    <string name="confirm_status_change">Confirm Status Change</string>
+    <string name="are_you_sure_free">Are you sure you want to set your status to Free?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="update_your_status">Update Your Status</string>
+    <string name="manage_classrooms_message">Manage your classrooms effortlessly with Teach Track</string>
+    <string name="status_saved">dialog_status_saved</string>
+</resources>
